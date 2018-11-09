@@ -34,5 +34,3 @@ I was tasked with creating User Accounts. Since we decided on GraphQL and I knew
 5. Once everything is working and you have tested it, you're done
 
 So in conclusion I have found GraphQL to be a great tool for backend logic. One that I will continue to use going forward. Especially since it plays so nicely with just about everyt language you can use on the web.
-
-Photo by Evgeni Tcherkasski on Unsplash
