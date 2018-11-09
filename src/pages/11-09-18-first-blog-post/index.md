@@ -6,7 +6,21 @@ title: 'My Time with GraphQL'
 
 Hello,
 
-My name is Jonathan Reeves. And, as the title of this blog suggests, I will talking about my experience with GraphQL on the project my team and I are working on. GraphQL so far has been amazing and has cut the amount of development time that normally takes place creating logins, signups, and signouts into mere hours vs days.
+My name is Jonathan Reeves. And, as the title of this blog suggests, I will talking about my experience with GraphQL on the project my team and I are working on.
+
+I helped solidfy the team by explaining GraphQL's Mutation and Query functionality to allow one of my teammates, who specializes is frontend, to develop the mutation for deleting a user. My team is awesome. We immediately meshed together. We see and try to implement everyone's expertise as a whole. There is no I in TEAM and we definitely reflect that. I might have caused some friction with my MacBook acting up at the beginning of the week. But have since fixed that issue and am good to go. GraphQL so far has been amazing and has cut the amount of development time that normally takes place creating logins, signups, and signouts into mere hours vs days.
+
+Project links:
+Frontend Link: https://clever-ramanujan-6abad4.netlify.com/
+Backend Link/User Account Tool: https://adventure-tracker-backend-ewlkjhhafm.now.sh/
+
+Pull Request and Trello Card Links:
+PR 1: https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/4
+PR 2: https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/14
+PR 3: https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/18
+PR 4: https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/19
+
+Trello Card: https://trello.com/c/jKderASz/1-create-user-accounts
 
 I was tasked with creating User Accounts. Since we decided on GraphQL and I knew very little about it. I knew that I had a lot of research ahead of me. I thought for sure I was going to be reading through documentation for at least a day just getting used to the syntax and testing small things out to get a feel for how the process would work. Let me tell you right now that was not the case. GraphQL made it very simple to create that first sginup mutation almost instantly. Now I know what you are thinking. What in the world is a mutation? Well in GraphQL, for those new to it, you have two ways of accessing and creating data. You have a mutation (which would be creating data) and you have a query (which would be how you get the data). You have a few files that you need to configure before it all works. Below are the generaized steps one would take to create a signup mutation:
 
