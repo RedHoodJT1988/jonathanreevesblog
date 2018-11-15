@@ -6,7 +6,7 @@ title: 'My Time with GraphQL'
 
 Hello,
 
-My name is Jonathan Reeves. And, as the title of this blog suggests, I will talking about my experience with GraphQL on the project my team and I are working on.
+My name is Jonathan Reeves. And, as the title of this blog suggests, I will be talking about my experience with GraphQL on the project my team and I are working on.
 
 I helped solidfy the team by explaining GraphQL's Mutation and Query functionality to allow one of my teammates, who specializes is frontend, to develop the mutation for deleting a user. My team is awesome. We immediately meshed together. We see and try to implement everyone's expertise as a whole. There is no I in TEAM and we definitely reflect that. I might have caused some friction with my MacBook acting up at the beginning of the week. But have since fixed that issue and am good to go. GraphQL so far has been amazing and has cut the amount of development time that normally takes place creating logins, signups, and signouts into mere hours vs days.
 
