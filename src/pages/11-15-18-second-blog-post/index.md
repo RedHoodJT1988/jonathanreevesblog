@@ -9,6 +9,14 @@ https://www.youtube.com/watch?v=Xj0QLsfw9wA
 
 ---
 
+Trello Ticket Board
+
+1. https://trello.com/c/Hh2cP5dd/14-google-maps-api-integration
+
+2. https://trello.com/c/UAMvcOMX/41-add-o-auth-to-login-and-sign-up-pages
+
+---
+
 Pull Requests on GitHub:
 
 1. https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/27
