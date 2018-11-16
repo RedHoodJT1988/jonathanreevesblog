@@ -4,6 +4,25 @@ date: '2018-11-15'
 title: 'Implementing Google Maps API with React and GraphQL'
 ---
 
+YouTube Whiteboard Interview:
+https://www.youtube.com/watch?v=Xj0QLsfw9wA
+
+---
+
+Pull Requests on GitHub:
+
+1. https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/27
+
+2. https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/43
+
+3. https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/44
+
+4. https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/46
+
+---
+
+Project GitHub Graph: https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pulse
+
 Hello and welcome to my second blog entry on our journey to creating an app with React, GraphQL, Apollo, and Prisma. What a ride it has been so far. If you read my last blog then you have a basic idea of what has been built so far, if you haven't then I highly recommend checking it out then coming back here. You can find my first blog here: https://jonathanreevesblog.netlify.com/first-blog.
 
 To begin today's blog I will tell you about the steps that I took to implement Google Maps API with our project. First we tried to work with Esri ArcGIS JavaScript Map API. It was pretty straight forward and really well documented. The problem I was having with it was getting the environment set up and ready for deployment. For some reason or another Netlify couldn't find the dojo/dojoDOMReady! files and dependencies necessary to function. I spent several hours trying to locate a solution and even reached out to a fellow Lambda Grad that works with the ArcGIS software on a daily basis. I was told that they use WebPack in production and that dojo wasn't something they setup.
