@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 
-// import '../css/blog-post.css';
+// import '../css/blog-post.css'
 
 export default function Template({ data }) {
   const { markdownRemark: post } = data

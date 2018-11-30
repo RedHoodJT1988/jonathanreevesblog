@@ -5,7 +5,7 @@ title: 'Google Maps JavaScript API'
 ---
 
 YouTube Whiteboard Interview:
-https://www.youtube.com/watch?v=Xj0QLsfw9wA
+https://youtu.be/Ik6ikVXg8Nw
 
 ---
 
