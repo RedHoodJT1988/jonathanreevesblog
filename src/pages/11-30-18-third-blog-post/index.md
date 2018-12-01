@@ -13,8 +13,6 @@ Trello Ticket Board
 
 1. https://trello.com/c/Hh2cP5dd/14-google-maps-api-integration
 
-2. https://trello.com/c/UAMvcOMX/41-add-o-auth-to-login-and-sign-up-pages
-
 ---
 
 Pull Requests on GitHub:
@@ -27,9 +25,13 @@ Pull Requests on GitHub:
 
 4. https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/81
 
+5. https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/82
+
 ---
 
 Project GitHub Graph: https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pulse
+
+Project Part I worked on: https://adventure-tracker-frontend.netlify.com/app/
 
 Hello, I am again writing about my experience using React, Apollo, Prisma and GraphQL. This time however I will be talking about working with my team on the project. Working with my team has been great. We problem solve together and then go and solve the problem either on our own or through pair programming. To give an example of this:
 I was having an issue with implementing a feature from the Google Maps JavaScript API, more on that frustration later, I wasn't able to get the markers to display their coordinates in an infowindow. I reached out to my teammate Simon Davis. Simon has a really good grasp on React and building the components. He gave me some pointers on what to possibly try and nothing was working. We then decided that we would pair program so I used the Live Share Extension in VS Code to share my code with him and we would both work together coding on what needed to be accomplished. Success. We were able to get the infowindow to properly display the cooridnates when you click on the marker. The steps we used were reading the vanilla JavaScript tutorials by Google and converting that code to React. Not an easy task but thankfully Simon was well versed in React and was able to help me out in struggle. I now have a pretty good idea on converting Vanilla JS to React and we have a pretty awesome feature built into our application.
