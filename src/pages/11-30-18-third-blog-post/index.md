@@ -1,6 +1,6 @@
 ---
 path: '/third-blog'
-dat: '2018-11-30'
+date: '2018-11-30'
 title: 'Google Maps JavaScript API'
 ---
 
