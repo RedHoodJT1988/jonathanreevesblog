@@ -28,6 +28,14 @@ GitHub Pull Requests:
 
 ---
 
+Google Maps Responsiveness issues: https://adventure-tracker-frontend.netlify.com/app/
+
+Facebook OAUth Seamless integration: https://adventure-tracker-frontend.netlify.com/facebooklogin/
+
+Layout and Button funcionality: https://adventure-tracker-frontend.netlify.com/triplist/
+
+---
+
 Project related links:
 
 Project GitHub Graph: https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pulse
